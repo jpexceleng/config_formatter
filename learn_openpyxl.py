@@ -1,4 +1,6 @@
 import openpyxl
+# RESOURCES:
+# https://openpyxl.readthedocs.io/en/stable/
 
 # set filepath to excel file.
 path = 'res\\LST-200219-SLP_CONFIG-TM01-Hold (Rev 1).xlsm'
