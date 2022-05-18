@@ -93,7 +93,6 @@ for ws_ref in wb_ref.worksheets:
             r += 1
 
 # clean up
+wb_ref.close()
 wb.save(WB_FILEPATH)
 wb.close()
-
-wb_ref.close()
